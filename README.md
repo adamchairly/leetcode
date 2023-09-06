@@ -17,4 +17,4 @@ The problems are numbered according to leetcodes default numbering.
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./Easy/ValidParentheses.md) | Easy|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Python](./Medium/CopyListWithRandomPointer.md) |Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](./Easy/LinkedListCycle.md) | Easy |
-
+|725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [Python](./Medium/SplitLinkedListInParts.md)
